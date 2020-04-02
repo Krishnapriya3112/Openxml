@@ -1,0 +1,15 @@
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.exe
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.csprojAssemblyReference.cache
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.AssemblyInfoInputs.cache
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.AssemblyInfo.cs
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.csproj.CopyComplete
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.deps.json
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.runtimeconfig.json
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.runtimeconfig.dev.json
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.dll
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Openxml.pdb
+D:\Encoding2020\Openxml\Openxml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.dll
+D:\Encoding2020\Openxml\Openxml\obj\Debug\netcoreapp3.1\Openxml.pdb
